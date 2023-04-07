@@ -1,11 +1,1 @@
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   3 hrs 23 mins   ███████████████████████▓░   94.94 %
-JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
+   <img align="center" width="710px" src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmealdo&layout=compact&title_color=8B64FF" />
